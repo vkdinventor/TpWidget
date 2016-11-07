@@ -1,8 +1,11 @@
 package com.example.vikash.tpwidget;
 
-/**
- * Created by vikash on 7/11/16.
- */
+
+import android.content.Context;
+import android.net.wifi.WifiConfiguration;
+import android.net.wifi.WifiManager;
+import java.lang.reflect.Method;
+
 public class HotspotManager {
 
     //check whether wifi hotspot on or off
